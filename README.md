@@ -1,6 +1,6 @@
 # concepts
 
-A project for learn somes Flutter Concepts.
+A project for learn some Flutter Concepts.
 
 ## Getting Started
 
